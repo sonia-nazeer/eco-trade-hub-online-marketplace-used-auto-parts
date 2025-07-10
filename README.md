@@ -54,16 +54,16 @@ This project promotes eco-friendly practices by reusing auto parts instead of di
 ![Product List](assets/images/search.png)
 
 ### 🛍️ Product Detail + Chat + Review
-![Product Detail](assets/images/product_detail.png)
+![Product Detail](assets/images/product-detail.png)
 ![Message center](assets/images/message-center.png)
 ![Chat box](assets/images/chat.jpg)
 ![Reviews](assets/images/review.png)
 
 
 
-### 🧑‍💼 Dashboard
+### 🧑‍💼 Dashboards(Buyer+Seller+Admin)
 ![Buyer Dashboard](assets/images/buyer-dashboard.png)
-![Seller Dashboard](assets/images/seller-dashboard.png)
+![Seller Dashboard](assets/images/seller-dashboard.jpg)
 ![Admin Dashboard](assets/images/admin-dashboard.png)
 
 ### 🔐 Login / Register
