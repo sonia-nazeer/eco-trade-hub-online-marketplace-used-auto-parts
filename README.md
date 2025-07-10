@@ -55,7 +55,7 @@ This project promotes eco-friendly practices by reusing auto parts instead of di
 
 ### 🛍️ Product Detail + Chat + Review
 ![Product Detail](assets/images/product_detail.jpg)
-![Message center](assets/images/message-center.jpg)
+![Message center](assets/images/message-center.png)
 ![Chat box](assets/images/chat.jpg)
 ![Reviews](assets/images/review.jpg)
 
@@ -67,13 +67,13 @@ This project promotes eco-friendly practices by reusing auto parts instead of di
 ![Admin Dashboard](assets/images/admin-dashboard.png)
 
 ### 🔐 Login / Register
-![Login Page](assets/images/login.jpg)
-![sign up](assets/images/Register.jpg)
+![Login Page](assets/images/login.png)
+![sign up](assets/images/Register.png)
 
 
 ### 🛒 Cart & Checkout System
-![cart ](assets/images/cart.jpg)
-![checkout](assets/images/checkout.jpg)
+![cart ](assets/images/cart.png)
+![checkout](assets/images/checkout.png)
 
 ---
 ## 🔐 License
