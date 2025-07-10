@@ -48,10 +48,10 @@ This project promotes eco-friendly practices by reusing auto parts instead of di
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Homepage](assets/images/home-slider1.jpg)
+![Homepage](assets/images/home-slider1.png)
 
 ### 📃 Product Listing with Filters
-![Product List](assets/images/search.jpg)
+![Product List](assets/images/search.png)
 
 ### 🛍️ Product Detail + Chat + Review
 ![Product Detail](assets/images/product_detail.jpg)
