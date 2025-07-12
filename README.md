@@ -1,4 +1,4 @@
-# ECO Trade Hub – Online Marketplace for Used Auto Parts 🔧🛒
+Jo# ECO Trade Hub – Online Marketplace for Used Auto Parts 🔧🛒
 
 A multi-vendor e-commerce platform built using PHP and MySQL that enables buyers and sellers to trade used auto parts. Promotes eco-friendly recycling in the automotive sector.
 
@@ -84,8 +84,7 @@ No part of it may be reused commercially without permission.
 ---
 ## 🙋‍♀️ Author
 
-**Sonia Nazeer**  
-Final Year BCS Student  
+**Sonia Nazeer**   
 [GitHub Profile](https://github.com/sonia-nazeer)  
 [LinkedIn (optional)] (www.linkedin.com/in/sonia-nazeer-aba72b280)
 
