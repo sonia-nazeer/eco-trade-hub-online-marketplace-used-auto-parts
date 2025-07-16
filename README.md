@@ -86,6 +86,6 @@ No part of it may be reused commercially without permission.
 
 **Sonia Nazeer**   
 [GitHub Profile](https://github.com/sonia-nazeer)  
-[LinkedIn (optional)] (www.linkedin.com/in/sonia-nazeer-aba72b280)
+[LinkedIn] (www.linkedin.com/in/sonia-nazeer-aba72b280)
 
 ---
